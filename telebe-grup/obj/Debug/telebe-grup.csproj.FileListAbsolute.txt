@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\telebe-grup\bin\Debug\telebe-grup.exe.config
+C:\Users\Acer\Desktop\telebe-grup\bin\Debug\telebe-grup.exe
+C:\Users\Acer\Desktop\telebe-grup\bin\Debug\telebe-grup.pdb
+C:\Users\Acer\Desktop\telebe-grup\obj\Debug\telebe-grup.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\telebe-grup\obj\Debug\telebe-grup.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\telebe-grup\obj\Debug\telebe-grup.exe
+C:\Users\Acer\Desktop\telebe-grup\obj\Debug\telebe-grup.pdb
